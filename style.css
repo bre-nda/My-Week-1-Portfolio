@@ -15,4 +15,11 @@ img {
     color: black;
     font-weight: bolder;
     font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.class {
+    color: brown;
+    font-size: medium;
+    font-weight: bold;
 }
