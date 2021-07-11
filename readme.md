@@ -17,5 +17,5 @@ CSS
 ## Support and contact details
 For more information, you can contact me at brendaandeso4@gmail.com
 ### License
-*licence under*
+*licence under*[MIT LICENCE]
 Copyright (c) {2021} **{Brenda Andeso}**
